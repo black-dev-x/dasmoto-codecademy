@@ -1,0 +1,27 @@
+.title {
+  background-image: url('./imgs/pattern.jpeg');
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+.subtitle {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.brush-subtitle {
+  background-color: mediumspringgreen;
+}
+.frames-subtitle {
+  background-color: lightcoral;
+}
+.paint-subtitle {
+  background-color: skyblue;
+}
+.price-tag {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
